@@ -1,0 +1,6 @@
+Item ID: 777
+Item Name:      maths
+Unit Price in PKR: 45.000000
+Quantity: 100
+Net Amount in PKR: 4500.000000
+Author:      countdown
